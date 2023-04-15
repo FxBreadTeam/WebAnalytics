@@ -89,6 +89,12 @@ tr:nth-child(even) {
   display: none;
 }
 
+.topnav_share{
+  position:absolute;
+  left:87%;
+  display: inline;
+}
+
 .top-kv_movie {
   position: relative;
   padding-bottom: 56.25%;
